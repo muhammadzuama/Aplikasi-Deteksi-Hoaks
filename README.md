@@ -40,7 +40,7 @@ Aplikasi **Hoaks Detection Using Text and Link** dikembangkan menggunakan **Flut
 ### 1. Clone Proyek
 
 ```bash
-git clone https://github.com/username/hoaksdetectionapp.git
+git clonehttps://github.com/muhammadzuama/Aplikasi-Deteksi-Hoaks.git
 cd hoaksdetectionapp
 ```
 
@@ -84,13 +84,3 @@ flutter run
 | “Klik link ini untuk klaim hadiah dari WHO”                                                                   | **Hoaks** |
 
 ---
-
-## 🔗 Model Deep Learning (API)
-
-Model deteksi hoaks ini dikembangkan menggunakan TensorFlow dan tersedia secara publik di GitHub:
-
-👉 [Model Deteksi Hoaks - GitHub Repository](https://github.com/muhammadzuama/modelDeteksiHoaks.git)
-
----
-
-Kalau kamu ingin versi dalam **Bahasa Indonesia formal untuk laporan atau dokumentasi akademik**, tinggal bilang saja ya!
